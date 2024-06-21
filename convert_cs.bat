@@ -1,1 +1,1 @@
-.\protoc.exe --csharp_out=. --grpc_out=..\com.unity.memoryprofiler\Editor\GrpcServer --plugin=protoc-gen-grpc=.\grpc_csharp_plugin.exe .\helloworld.proto
+.\protoc.exe --csharp_out=..\com.unity.memoryprofiler\Editor\GrpcServer --grpc_out=..\com.unity.memoryprofiler\Editor\GrpcServer --plugin=protoc-gen-grpc=.\grpc_csharp_plugin.exe .\helloworld.proto
